@@ -259,7 +259,8 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     imscmlibrary \
     ims \
-    imssettings 
+    imssettings \ 
+    IMSEnabler
 
 endif
 
