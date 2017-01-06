@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/yu/tomato/proprietary/etc/permissions/imscm.xml:system/etc/permissions/imscm.xml \
     vendor/yu/tomato/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
+    vendor/yu/tomato/proprietary/vendor/lib64/lib-ims-rcscmjni.so:system/vendor/lib64/lib-ims-rcscmjni.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libimscamera_jni.so:system/vendor/lib64/libimscamera_jni.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imscamera.so:system/vendor/lib64/lib-imscamera.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsdpl.so:system/vendor/lib64/lib-imsdpl.so \
